@@ -1,0 +1,28 @@
+footer {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-top: 1px solid #ccc;
+  }
+  
+  .footer-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .footer-links li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .footer-links a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  .copyright {
+    font-size: 14px;
+    color: #999;
+  }
+  

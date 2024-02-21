@@ -1,0 +1,15 @@
+1) on utilise github (si on a pas mieux)
+2) telecharger projet routeur
+ -sources 
+ -markdown
+3) Git Init
+4) Tester rep local
+ -branch
+ -modif
+ -Merge
+TADAA
+5) Rep remoote
+ -migrer local-> remote
+ -branch chacun modification
+ -Merge request 
+ -Download
